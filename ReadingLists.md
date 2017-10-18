@@ -1,6 +1,6 @@
 # Reading List
 
-So, here I'm just going to drop links to Public Domain/Creative Commons works. If I end up with enough things, I'll just go ahead and seperate into different sections, depending on what you all are looking for. 
+The start of a collection of Occult books for witches to read. If I end up with enough things, I'll just go ahead and seperate into different sections, depending on what you all are looking for. 
 
 ### A Heads Up
 
