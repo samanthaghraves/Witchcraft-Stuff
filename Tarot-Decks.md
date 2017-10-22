@@ -1,4 +1,4 @@
-#Tarot Decks
+# Tarot Decks
 
 So, these are some of the suggestions that I've gotten about decks, and I
 want to keep them in one place. Feel free to suggest any you like on 
@@ -7,7 +7,7 @@ occult.camp, and the list will be updated accordingly.
 If there's anything in particular you like to divine with the deck, 
 or you want to write a little bio for a particular deck, please let me know!
 
-###Tarot Decks!
+### Tarot Decks!
 
 * Silicon Dawn Tarot - http://egypt.urnash.com/tarot/
 <p></p>
@@ -25,6 +25,6 @@ or you want to write a little bio for a particular deck, please let me know!
 <p></p>
 * Llewellyn Tarot - https://www.llewellyn.com/tarot_reading.php
 
-###Oracle Decks!
+### Oracle Decks!
 ((COMING SOON))
 
